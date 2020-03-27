@@ -11,7 +11,8 @@ public class Web3jtest {
         Web3ClientVersion web3ClientVersion = web3j.web3ClientVersion().send();
         String clientVersion = web3ClientVersion.getWeb3ClientVersion();
 
-        System.out.println(clientVersion);
+        System.out.println("clientVersion");
+        System.out.println("hallo");
     }
 
 }

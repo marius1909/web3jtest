@@ -98,3 +98,9 @@ web3jtest/.idea/
 web3jtest/target/classes/
 
 *.iml
+
+.idea/modules.xml
+
+.idea/misc.xml
+
+.idea/vcs.xml

@@ -91,3 +91,10 @@ fabric.properties
 .idea/**/markdown-navigator/
 
 # End of https://www.gitignore.io/api/intellij
+web3jtest/.idea/compiler.xml
+
+web3jtest/.idea/
+
+web3jtest/target/classes/
+
+*.iml
